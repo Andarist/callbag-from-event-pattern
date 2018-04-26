@@ -1,6 +1,6 @@
 {
   "name": "callbag-from-event-pattern",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "👜 Callbag source factory from addHandler and removeHandler pair.",
   "main": "dist/callbag-from-event-pattern.js",
   "module": "dist/callbag-from-event-pattern.es.js",
